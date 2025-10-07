@@ -26,3 +26,7 @@ This tool automatically **creates and uploads Docker volume backups to Google Dr
 
 ## 🗂️ Project Structure
 
+- **backup.py #for making backup,archive upload to gdrive
+- **backup_converter.py #for converting archive, making docker volume
+- **gdrive_backup_download.py #for downloading archive files from gdrive
+
